@@ -6,8 +6,6 @@
 
 ### **Topics:**
 
-* **Induction Programme**
-* **Introduction to Course Contents** (Linux Administration)
 * **Downloading & Installing Linux**
 
   * Verifying Linux ISOs (Ubuntu, Debian, CentOS)
